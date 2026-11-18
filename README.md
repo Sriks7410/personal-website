@@ -21,3 +21,10 @@ AI engineering.
 - LangGraph
 - AutoGen
 - Docker
+
+## Research Interests
+
+- Artificial intelligence
+- Supply chain analytics
+- Critical minerals
+- Mathematical optimization
