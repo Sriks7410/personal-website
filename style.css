@@ -1,0 +1,39 @@
+
+/* Style the entire webpage
+body {
+    background-color: #f4f6f9;
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+/* Style the main heading */
+/* h1 { */
+    /* color: navy;
+    font-size: 36px;
+} */ */
+
+body {
+    background-color: #f4f6f9;
+    margin: 20px;
+}
+
+h1 {
+    color: #dc2626;
+    font-size: 36px;
+}
+
+/* Style secondary headings */
+h2 {
+    color: steelblue;
+}
+
+/* Style paragraphs */
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Style list items */
+li {
+    margin-bottom: 10px;
+}

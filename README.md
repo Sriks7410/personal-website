@@ -28,3 +28,7 @@ AI engineering.
 - Supply chain analytics
 - Critical minerals
 - Mathematical optimization
+
+## AI Playground
+
+An interactive AI chatbot will be added here.
